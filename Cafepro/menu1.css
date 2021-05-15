@@ -1,0 +1,65 @@
+#send{
+    background-image:url('menu.png');
+}
+body, html {
+    height:100%;
+    margin: 0;
+    padding:0;
+}
+
+.bg {
+    /* The image used */
+    background-image: url("bg.jpg");
+    background-repeat: repeat;
+  
+
+    /* Full height */
+    height:100%;
+    width:100%;
+    overflow:scroll;
+    /* Center and scale the image nicely */
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.centered {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+h1{
+    text-align: center;
+    color:brown;
+    font-size: 15vw;
+    font-family: "Times New Roman", Times, serif;;
+    
+}
+h2{
+    color:brown;
+    font-size:2vw;
+    font-family:"Times New Roman", Times, serif;
+}
+h11{
+    color:brown;
+    font-size: 5vw;
+    font-family: "Times New Roman", Times, serif;;
+    
+}
+p{
+    color:brown;
+    font-size:2vw;
+}
+.top-left {
+    position: absolute;
+    top: 35%;
+    left: 16px;
+}
+.top-left1 {
+    position: absolute;
+    top: 25%;
+    left: 16px;
+}

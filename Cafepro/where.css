@@ -1,0 +1,44 @@
+
+body{
+
+    background-image: url("co.jpg");
+    background-repeat:repeat-x;
+
+}
+h1{
+    padding-left: 14cm;
+    padding-top: 5px;
+    color:saddlebrown;
+    font-family: "Times New Roman", Times, serif;
+}
+#map{
+    /*     border-style: solid;
+         border-color: saddlebrown;*/
+    padding-left: 10cm;
+
+}
+p{
+    color:saddlebrown;
+    padding-left: 10cm;
+    padding-top: 1cm;
+    font-size:30px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+address{
+    color:saddlebrown;
+    padding-left: 10cm;
+    font-size:20px;
+}
+p1{
+    color:saddlebrown;
+    padding-left: 10cm;
+    font-size: 30px;
+    font-family: "Times New Roman", Times, serif;
+    font-style: italic;
+}
+p2{
+    color:saddlebrown;
+    font-size:20px;
+}
+
