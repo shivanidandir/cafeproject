@@ -1,0 +1,12 @@
+1.DNN is better than conventional model, as dnn can correlate in speech features.
+
+2.further goes into CNN and state its advantages and how it is used.
+
+3.Automatic speech recognition(ASR) is used for converting human speech to words.ASR needs to map variable-length signal into variable length sequence of words.
+
+Here, HMM comes into action as it can handle variable length sequence.
+
+GMM are used for estimating probabilistic distribution of speech signal associated with HMM states.
+
+
+Recently, HMM use Artificial Neural Networks(ANN) are powerful discriminative models that can directly represent arbitrary classification surfaces in the feature space without any assumptions about the data’s structure.
